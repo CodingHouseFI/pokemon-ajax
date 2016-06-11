@@ -1,0 +1,16 @@
+.half {  
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+}
+
+.pokedata {
+  border: 1px solid #000;
+  width: 40%;
+  padding: 20px;
+  position: fixed;
+}
+
+.data {
+  display: none;
+}
